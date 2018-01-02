@@ -6,4 +6,9 @@
 //  Copyright © 2018 Nguyễn Tấn Phúc. All rights reserved.
 //
 
+import UIKit
 import Foundation
+
+extension UIColor {
+    
+}
